@@ -7,7 +7,7 @@ void main() {
   String == "i";
   String == "o";
   String == "u";
-  stdout.write("Enter a vowel: ");
+  stdout.write("Enter a vowel:  ");
   String input = stdin.readLineSync()!;
   if (input == "a" ||
       input == "e" ||
